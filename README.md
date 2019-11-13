@@ -1,9 +1,9 @@
-# KintoHub react-example
+# KintoHub preact-example
 
 ## Overview
 Preact is a fast 3kB alternative to React with the same modern API.
 
-[Live Example](TODO)
+[Live Example](https://preact-example-1d0d2-8caf9.web.master.kintohub.com/)
 
 __About KintoHub:__
 
