@@ -1,5 +1,6 @@
-coverage.txt
-.env
-.DS_Store
-.idea
-.vscode
+node_modules
+/build
+/*.log
+*.lock
+
+package-lock.json
